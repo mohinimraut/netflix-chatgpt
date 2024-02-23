@@ -1,0 +1,24 @@
+Project Name => netflix-gpt
+npx create-react-app netflix-gpt
+->For run project->npm start or npm run start command
+-----------------------
+tailwindcss.com->Framework Guide
+-----------
+npm install -D tailwindcss
+npx tailwindcss init
+--------------------------
+npx tailwindcss init->This command give you tailwind.config.js file
+-------------------------------
+# Features
+-Login/Sign Up
+    -Sign In / Sign up Form
+    redirect to Browse  Page
+-Browse
+  -Header
+  -Main Movie
+     -Tailer in Background
+     -Title & Description
+     -MovieSuggestion
+        -MovieLists * N
+-Netflix-Gpt      
+    -Movie Suggestions  
