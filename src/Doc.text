@@ -31,8 +31,10 @@ npx tailwindcss init->This command give you tailwind.config.js file
   Create React app
   Configured Tailwind
   Header
+  routing of App
   Login Form
   Sign up form
+  Form Validation
   ---------------
   0.55.53
   ====================
@@ -43,3 +45,13 @@ npx tailwindcss init->This command give you tailwind.config.js file
   logo image Header component madhe ghetale
   =>Logo image=>
   https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png
+  =========================
+  useRef=>useRef is a React Hook that lets you reference a value that's not needed for rendering.
+  ================================
+  https://saturncloud.io/blog/how-can-i-validate-an-email-address-using-a-regular-expression/
+  ================================================
+  https://regexr.com/3bfsi
+  ------------------------
+  ======================
+  There are 2 ways to get values of input
+  either state variable and other is give reference.
