@@ -22,3 +22,24 @@ npx tailwindcss init->This command give you tailwind.config.js file
         -MovieLists * N
 -Netflix-Gpt      
     -Movie Suggestions  
+  ================================
+  =>github repository name->https://github.com/mohinimraut/netflix-chatgpt
+  -------------------
+  rafce->automatically generate component for you.=>React arrow function component export
+  ->ES7 React/Redux/GraphQL/React-Native snippets=>for come arrow function
+  ---------------
+  Create React app
+  Configured Tailwind
+  Header
+  Login Form
+  Sign up form
+  ---------------
+  0.55.53
+  ====================
+  =>background image url=>
+  https://assets.nflxext.com/ffe/siteui/vlv3/2e07bc25-8b8f-4531-8e1f-7e5e33938793/e4b3c14a-684b-4fc4-b14f-2b486a4e9f4e/IN-en-20240219-popsignuptwoweeks-perspective_alpha_website_small.jpg
+
+  ---------------------------------
+  logo image Header component madhe ghetale
+  =>Logo image=>
+  https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png
